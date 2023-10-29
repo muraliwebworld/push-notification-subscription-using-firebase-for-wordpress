@@ -80,10 +80,7 @@
       
     "crypto-browserify": "^3.12.0",
   
-      
-    "http2": "^3.3.7",
-  
-      
+          
     "https-browserify": "^1.0.0",
   
       
@@ -149,7 +146,7 @@
     "dependencies": {
   
       
-    "@wordpress/blocks": "^12.15.0",
+    "@wordpress/blocks": "^12.21.0",
   
       
     "@wordpress/e2e-test-utils": "^10.8.0",
