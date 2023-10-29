@@ -2,7 +2,7 @@
   
     "name": "@muraliwebworld/push-notification-subscription-using-firebase-for-wordpress",
   
-    "version": "1.0.4",
+    "version": "1.0.5",
   
     "description": "It needs to be used along with plugin - Push notification for wordpress websites (WordPress plugin).It sends push notifications to desktop, android/ios mobile apps using Firebase Cloud Messaging (FCM) with latest version Firebase API httpv1 or with legacy Firebase api or users can select Onesignal as push notification provider. It has REST API facility to integrate with native/hybrid Android/iOS mobile apps for push notifications. It sends notification whenever new WordPress post, custom post types,new BuddyPress activities,comments published. It has facility to generate PWA - Progressive Web App. This plugin is able to send push notification to more than 200,000 subscribers unlimited push notifications using background action scheduler.",
   
