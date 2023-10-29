@@ -130,7 +130,7 @@
     "build": "wp-scripts build",
   
       
-    "build:pnfpb_push_notification": "wp-scripts build --webpack-src-dir=push-notification-subscription-using-firebase-for-wordpress --output-path=build/pnfpb_push_notification",
+    "build:pnfpb_push_notification": "wp-scripts build --webpack-src-dir=src --output-path=build/pnfpb_push_notification",
   
       
     "format": "wp-scripts format",
